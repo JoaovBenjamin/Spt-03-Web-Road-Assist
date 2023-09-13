@@ -53,6 +53,7 @@ Com essas melhorias nas perguntas do chat no WhatsApp, a Jevs Rakja está empenh
                     max-width:100%;
                     gap:50px;
                     margin:0 20px;
+                    margin-bottom:10px;
                 }
 
                 .teste{
