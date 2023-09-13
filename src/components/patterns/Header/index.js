@@ -12,15 +12,16 @@ export default function Header({ }) {
                     <ImagesComp src="/images/logo-porto1.png" width={89} height={20}></ImagesComp>
 
                     <ul className="navBar">
+                        <li><HyperLink href='/'>Projeto Jevs Rakja</HyperLink></li>
                         <li><HyperLink href='/'>Sobre Nós</HyperLink></li>
                         <li><HyperLink href='/'>Ajuda</HyperLink></li>
                         <li><HyperLink href='/'>Blog</HyperLink></li>
-                        <li><HyperLink href='/'>Encontre um Corretor</HyperLink></li>
+                        <li><HyperLink href='/'>Membros</HyperLink></li>
                     </ul>
                 </div>
 
                 <span className="navBar">
-                    <User > Usuario</User>
+                    <User>Usuario</User>
                 </span>
 
                 <span className="hamburguerMenu">
